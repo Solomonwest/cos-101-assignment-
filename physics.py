@@ -35,7 +35,7 @@ elif intro == 3:
 elif intro == 4:
     area_of_a_triangle()
 elif intro == 5:
-    area_of_a_rectangle
+    area_of_a_rectangle()
 else:
     print("Invalid Parameters Provided, Kindly re-run the program.")
 
